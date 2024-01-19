@@ -1,4 +1,4 @@
-# ddos-v8
+# ddos-v8 (New Generation)
 
 DDos (Distributed Denial Of Serivce) version 6
 
