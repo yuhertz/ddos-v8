@@ -1,6 +1,6 @@
 # ddos-v8 (New Generation)
 
-DDos (Distributed Denial Of Serivce) version 6
+DDos (Distributed Denial Of Serivce) version 8 New Generation
 
 Set up for Termux
 ```
