@@ -198,20 +198,18 @@ def down_it_tcp(_ctx: Context):
 
 
 def logo():
-    print('''
 
-██████╗ ██████╗ ██╗██████╗ ██████╗ ███████╗██████╗
-██╔══██╗██╔══██╗██║██╔══██╗██╔══██╗██╔════╝██╔══██╗
-██║  ██║██████╔╝██║██████╔╝██████╔╝█████╗  ██████╔╝
-██║  ██║██╔══██╗██║██╔═══╝ ██╔═══╝ ██╔══╝  ██╔══██╗
-██████╔╝██║  ██║██║██║     ██║     ███████╗██║  ██║
-╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝     ╚══════╝╚═╝  ╚═╝
+  print('Rocotai Distributed Denial Of Service Attack Version 8 (NEW GENERATION)')
 
-It is the end user's responsibility to obey all applicable laws.
-It is just like a server testing script and Your IP is visible.
+  def prRed(skk): print("\033[31m {}\033[00m" .format(skk))
+  prRed('''
 
-Please, make sure you are ANONYMOUS! v1.3.6
+[WARNING] THIS IS HIGHLY ILLEGAL
+It is a server testing script and YOUR IP ADDRESS S VISIBLE
+
+Please, attack AT YOUR OWN RISK
      ''')
+
 
 
 def usage(parser):
